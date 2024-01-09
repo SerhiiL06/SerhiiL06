@@ -2,18 +2,33 @@
 <h1 align="center">Hi 👋, I'm Serhii</h1>
 - 🔭 I’m currently working on [React full-stack application ](https://github.com/SerhiiL06/React-book-app)
 <br/>
-- 🌱 I’m currently learning **React**
 
-- 📫 How to reach me **sergiy06061997@gmail.com**
+<h2>📚<strong> Currently Learning </strong></h2>
+  <ul>
+    <li>React</li>
+  </ul>
 
-<div> <a href="https://www.linkedin.com/in/Serhii Bustrov" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="https://github.com/SerhiiL06" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+ <h2>👷<strong> Currently Working On </strong></h2>
+
+   <ul>
+    <li><a href="https://github.com/SerhiiL06/React-book-app">React book app application</a></li>
+    <li><a href="https://github.com/SerhiiL06/book-change">Django book-cgange app (full-stack)</a></li>
+    <li><a href="https://github.com/SerhiiL06/marketplace-FastApi">FastAPI marketplace</a></li>
+  </ul>
+
+<hr/>
+<br/>
+
+
+<div>
+  <h2>Contact with me: </h2>
+  <a href="https://www.linkedin.com/in/serhii-bustrov-5701b4295/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href = "mailto:sergiy06061997@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div><h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/Serhii Bustrov" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="Serhii Bustrov" height="30" width="40" /></a></p>
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
+</br>
+<div>
+<h2 align="left">Languages and Tools:</h2>
 <p align="left">
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/python-original.svg" alt="Python" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/javascript-original.svg" alt="Javascript" width="40" height="40"/>
