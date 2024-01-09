@@ -1,6 +1,7 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align="center">Hi 👋, I'm Serhii</h1>
 - 🔭 I’m currently working on [React full-stack application ](https://github.com/SerhiiL06/React-book-app)
+<br/>
 - 🌱 I’m currently learning **React**
 
 - 📫 How to reach me **sergiy06061997@gmail.com**
@@ -28,9 +29,6 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <div align="center">
 <a href="https://github.com/SerhiiL06">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SerhiiL06&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SerhiiL06&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SerhiiL06&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SerhiiL06&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SerhiiL06&theme=2077" height="180em" />
 </div>
