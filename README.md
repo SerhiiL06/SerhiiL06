@@ -1,6 +1,5 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align="center">Hi 👋, I'm Serhii</h1>
-- 🔭 I’m currently working on [React full-stack application ](https://github.com/SerhiiL06/React-book-app)
 <br/>
 
 <h2>📚<strong> Currently Learning </strong></h2>
@@ -11,6 +10,7 @@
  <h2>👷<strong> Currently Working On </strong></h2>
 
    <ul>
+    <li><a href="https://github.com/SerhiiL06/Movies">Movie application</a></li>
     <li><a href="https://github.com/SerhiiL06/React-book-app">React book app application</a></li>
     <li><a href="https://github.com/SerhiiL06/book-change">Django book-cgange app (full-stack)</a></li>
     <li><a href="https://github.com/SerhiiL06/marketplace-FastApi">FastAPI marketplace</a></li>
