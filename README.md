@@ -4,15 +4,13 @@
 
 <h2>📚<strong> Currently Learning </strong></h2>
   <ul>
-    <li>React</li>
+    <li>Java/Spring</li>
   </ul>
 
  <h2>👷<strong> Currently Working On </strong></h2>
 
    <ul>
     <li><a href="https://github.com/SerhiiL06/Movies">Movie application</a></li>
-    <li><a href="https://github.com/SerhiiL06/React-book-app">React book app application</a></li>
-    <li><a href="https://github.com/SerhiiL06/book-change">Django book-cgange app (full-stack)</a></li>
     <li><a href="https://github.com/SerhiiL06/marketplace-FastApi">FastAPI marketplace</a></li>
   </ul>
 
