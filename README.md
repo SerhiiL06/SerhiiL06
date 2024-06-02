@@ -10,8 +10,8 @@
  <h2>👷<strong> Currently Working On </strong></h2>
 
    <ul>
-    <li><a href="https://github.com/SerhiiL06/Movies">Movie application</a></li>
-    <li><a href="https://github.com/SerhiiL06/marketplace-FastApi">FastAPI marketplace</a></li>
+    <li><a href="https://github.com/SerhiiL06/fastAPI-cinema">Cinema application</a></li>
+    <li><a href="https://github.com/SerhiiL06/tracker">Tracker full stack application</a></li>
   </ul>
 
 <hr/>
