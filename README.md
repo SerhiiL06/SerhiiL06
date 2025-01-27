@@ -2,11 +2,6 @@
 <h1 align="center">Hi 👋, I'm Serhii</h1>
 <br/>
 
-<h2>📚<strong> Currently Learning </strong></h2>
-  <ul>
-    <li>Java/Spring</li>
-  </ul>
-
  <h2>👷<strong> Currently Working On </strong></h2>
 
    <ul>
